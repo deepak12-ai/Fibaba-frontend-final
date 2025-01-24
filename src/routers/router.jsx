@@ -5,7 +5,7 @@ import CategoryPage from "../pages/category/CategoryPage.jsx";
 import Search from "../pages/search/Search.jsx";
 import ShopPage from '../pages/shop/ShopPage.jsx'
 import SingleProduct from "../pages/shop/ProductDetails/SingleProduct.jsx";
-import Login from "../components/login.jsx";
+import Login from "../components/Login.jsx";
 import Register from "../components/Register.jsx";
 import PaymentSuccess from "../components/PaymentSuccess.jsx";
 import DashboardLayout from "../pages/dashboard/DashboardLayout.jsx";

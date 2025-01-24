@@ -1,5 +1,5 @@
 const getBaseUrl = ()=>{
-    return 'http://localhost:5000'
+    return 'https://fibaba-ecommerce-backend-app.vercel.app'
 }
 
 export default getBaseUrl;
